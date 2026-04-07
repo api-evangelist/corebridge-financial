@@ -1,16 +1,14 @@
 aid: corebridge-financial
-url: 
-  https://raw.githubusercontent.com/api-evangelist/corebridge-financial/refs/heads/main/apis.yml
+url: https://raw.githubusercontent.com/api-evangelist/corebridge-financial/refs/heads/main/apis.yml
 apis:
   - aid: corebridge-financial:website
     name: Corebridge Financial Website
     tags:
-      - Retirement
-      - Insurance
       - Annuities
       - Financial Services
-    image: 
-      https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+      - Insurance
+      - Retirement
+    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
     baseURL: https://www.corebridgefinancial.com
     humanURL: https://www.corebridgefinancial.com
     properties:
