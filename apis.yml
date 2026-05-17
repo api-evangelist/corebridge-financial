@@ -1,6 +1,6 @@
 aid: corebridge-financial
 name: Corebridge Financial
-x-type: company
+kind: company
 description: >-
   Corebridge Financial (formerly AIG Life and Retirement) is one of the largest
   and most established retirement and insurance solutions providers in the
