@@ -77,7 +77,7 @@ common:
     url: https://www.corebridgefinancial.com/careers
   - type: PrivacyPolicy
     url: https://www.corebridgefinancial.com/privacy
-  - type: TermsOfUse
+  - type: TermsOfService
     url: https://www.corebridgefinancial.com/terms-of-use
   - type: Contact
     url: https://www.corebridgefinancial.com/contact-us
