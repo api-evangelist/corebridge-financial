@@ -61,6 +61,8 @@ apis:
       - type: ConsultantDIRECT
         url: https://www.corebridgefinancial.com/rs/consultant-direct
 common:
+  - type: DomainSecurity
+    url: security/corebridge-financial-domain-security.yml
   - type: Website
     url: https://www.corebridgefinancial.com
   - type: WhoWeAre
