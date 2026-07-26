@@ -29,12 +29,6 @@ Corebridge Financial (formerly AIG Life and Retirement) is one of the largest an
 
 ## APIs
 
-### Corebridge Financial Website
-
-Corebridge Financial's public website serves as the institutional and consumer entry point for retirement, insurance, and annuity solutions. Authenticated portals are provided for annuity holders, life insurance consumers, retirement services participants, plan sponsors (SponsorFIT), and consultants (ConsultantDIRECT). No public REST API is published.
-
-- **Human URL:** [https://www.corebridgefinancial.com](https://www.corebridgefinancial.com)
-- **Base URL:** `https://www.corebridgefinancial.com`
 
 #### Tags
 

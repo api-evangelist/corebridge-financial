@@ -13,7 +13,19 @@ description: >-
   access is provided through dedicated portals.
 url: >-
   https://raw.githubusercontent.com/api-evangelist/corebridge-financial/refs/heads/main/apis.yml
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+    - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/corebridge-financial.png
 type: Index
 access: Internal
 position: Consuming
@@ -28,38 +40,9 @@ tags:
   - Retirement
   - Variable Annuities
 created: '2026-03-21'
-modified: '2026-04-28'
+modified: '2026-07-25'
 specificationVersion: '0.20'
-apis:
-  - aid: corebridge-financial:website
-    name: Corebridge Financial Website
-    description: >-
-      Corebridge Financial's public website serves as the institutional and
-      consumer entry point for retirement, insurance, and annuity solutions.
-      Authenticated portals are provided for annuity holders, life insurance
-      consumers, retirement services participants, plan sponsors (SponsorFIT),
-      and consultants (ConsultantDIRECT). No public REST API is published.
-    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
-    humanURL: https://www.corebridgefinancial.com
-    baseURL: https://www.corebridgefinancial.com
-    tags:
-      - Annuities
-      - Financial Services
-      - Insurance
-      - Retirement
-    properties:
-      - type: Website
-        url: https://www.corebridgefinancial.com
-      - type: WhoWeAre
-        url: https://www.corebridgefinancial.com/who-we-are
-      - type: InnovativeTechnology
-        url: https://www.corebridgefinancial.com/innovativetechnology
-      - type: RetirementServices
-        url: https://www.corebridgefinancial.com/rs
-      - type: SponsorFIT
-        url: https://www.corebridgefinancial.com/rs/sponsor-fit
-      - type: ConsultantDIRECT
-        url: https://www.corebridgefinancial.com/rs/consultant-direct
+apis: []
 common:
   - type: DomainSecurity
     url: security/corebridge-financial-domain-security.yml
