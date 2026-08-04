@@ -1,0 +1,16 @@
+openapi: 3.1.0
+info:
+  title: Corebridge Financial API
+  description: >-
+    Corebridge Financial (formerly AIG Life and Retirement) is one of the
+    largest retirement and insurance solutions providers in the United
+    States. This is a placeholder specification as Corebridge Financial
+    does not currently publish a public developer API.
+  version: 1.0.0
+  contact:
+    name: Corebridge Financial
+    url: https://www.corebridgefinancial.com
+servers:
+  - url: https://www.corebridgefinancial.com
+    description: Corebridge Financial Website
+paths: {}

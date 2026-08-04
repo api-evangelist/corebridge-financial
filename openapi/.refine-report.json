@@ -1,0 +1,14 @@
+{
+  "provider": "corebridge-financial",
+  "sources": [
+    "corebridgefinancial.yml"
+  ],
+  "outputs": [],
+  "archived": [
+    "archived corebridgefinancial.yml"
+  ],
+  "errors": [],
+  "warnings": [],
+  "notes": [],
+  "skipped": []
+}
