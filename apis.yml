@@ -43,7 +43,7 @@ position: Consuming
 tags:
   - AIG
   - Annuities
-  - Financial-Services
+  - Financial Services
   - Fortune 500
   - Insurance
   - K-12
@@ -60,6 +60,7 @@ tags_raw:
   - Life Insurance
   - Retirement
   - Variable Annuities
+  - Financial-Services
 created: '2026-03-21'
 modified: '2026-07-25'
 specificationVersion: '0.23'
