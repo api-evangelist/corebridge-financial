@@ -1,4 +1,4 @@
-# Corebridge Financial (corebridge-financial)
+# Corebridge Financial
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,68 +66,104 @@
 
 Corebridge Financial (formerly AIG Life and Retirement) is one of the largest and most established retirement and insurance solutions providers in the United States. Spun off from AIG in September 2022 in the largest IPO of that year, Corebridge provides retirement solutions, life insurance, fixed and variable annuities, and institutional products. The company is a leading retirement plan provider for K-12 schools, healthcare, government, higher education, and other not-for-profit institutions. Corebridge Financial does not currently publish a public developer API; participant and plan sponsor access is provided through dedicated portals.
 
-**APIs.json:** [https://raw.githubusercontent.com/api-evangelist/corebridge-financial/refs/heads/main/apis.yml](https://raw.githubusercontent.com/api-evangelist/corebridge-financial/refs/heads/main/apis.yml)
+**Areas:** AIG · Annuities · Financial Services · Fortune 500 · Insurance · K-12 · Life Insurance · Retirement · Variable Annuities
 
-## Scope
+## Corebridge Financial on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** Internal
+Everything profiled for Corebridge Financial is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/corebridge-financial/](https://apis.io/providers/corebridge-financial/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- AIG
-- Annuities
-- Financial Services
-- Fortune 500
-- Insurance
-- K-12
-- Life Insurance
-- Retirement
-- Variable Annuities
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Collections (1)
 
-- **Created:** 2026-03-21
-- **Modified:** 2026-04-28
+Postman and Open Collection request collections.
 
-## APIs
+- [Corebridge Financial API](https://apis.io/collections/corebridge-financial/open-corebridgefinancial/)
 
+#### Security (1)
 
-#### Tags
+Authentication, trust centre, and vulnerability disclosure.
 
-- Annuities
-- Financial Services
-- Insurance
-- Retirement
+- [Corebridge Financial Domain Security](https://apis.io/security/corebridge-financial/corebridge-financial-domain-security/)
 
-#### Properties
+#### Plans and pricing (1)
 
-- [Website](https://www.corebridgefinancial.com)
-- [Who We Are](https://www.corebridgefinancial.com/who-we-are)
-- [Innovative Technology](https://www.corebridgefinancial.com/innovativetechnology)
-- [Retirement Services](https://www.corebridgefinancial.com/rs)
-- [Sponsor F I T](https://www.corebridgefinancial.com/rs/sponsor-fit)
-- [Consultant D I R E C T](https://www.corebridgefinancial.com/rs/consultant-direct)
-- [Postman Collection](collections/corebridgefinancial.postman_collection.json) — [Postman Collection 2.1](https://schema.getpostman.com/json/collection/v2.1.0/collection.json)
-- [Open Collection](collections/corebridgefinancial.opencollection.json) — [Open Collection 1.0](https://schema.opencollection.com/opencollection/v1.0.0.json)
+Published plans, tiers and prices.
 
-## Common Properties
+- [Corebridge Financial Plans Pricing](https://apis.io/plans/corebridge-financial/corebridge-financial-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Corebridge Financial Rate Limits](https://apis.io/rate-limits/corebridge-financial/corebridge-financial-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Corebridge Financial Finops](https://apis.io/finops/corebridge-financial/corebridge-financial-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.corebridgefinancial.com)
-- [Who We Are](https://www.corebridgefinancial.com/who-we-are)
-- [Innovative Technology](https://www.corebridgefinancial.com/innovativetechnology)
-- [Retirement Services](https://www.corebridgefinancial.com/rs)
-- [Investor Relations](https://investors.corebridgefinancial.com/)
-- [News](https://investors.corebridgefinancial.com/news-and-events/news-releases)
-- [Careers](https://www.corebridgefinancial.com/careers)
-- [Privacy Policy](https://www.corebridgefinancial.com/privacy)
-- [Terms Of Use](https://www.corebridgefinancial.com/terms-of-use)
-- [Contact](https://www.corebridgefinancial.com/contact-us)
-- [LinkedIn](https://www.linkedin.com/company/corebridge-financial)
-- [Twitter](https://twitter.com/corebridgefin)
+- [Blog](https://www.corebridgefinancial.com/newsroom)
+- [Terms of service](https://www.corebridgefinancial.com/terms-of-use)
+- [Privacy policy](https://www.corebridgefinancial.com/privacy)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
-**Email:** kin@apievangelist.com
+**Kin Score 8.9** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 18.4 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 8.8** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/corebridge-financial/](https://apis.io/providers/corebridge-financial/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Corebridge Financial: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/corebridge-financial/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
